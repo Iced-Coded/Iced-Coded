@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Iced-Coded/Iced-Coded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Greetings to my personal page 👋
+
+- 🔭 I’m currently working on _PushToAlert_
+- 🌱 I’m currently learning _PHP, jQuery_
+- 📫 To reach me you can send me an email to _volkogon212@gmail.com_
