@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### Greetings to my personal page 👋
 
-- 🔭 I’m currently working on _PushToAlert_
-- 🌱 I’m currently learning _PHP, jQuery_
+- 🔭 I’m currently working on _N/A_
+- 🌱 I’m currently learning _PHP, Tailwind CSS_
 - 📫 To reach me you can send me an email to _volkogon212@gmail.com_
