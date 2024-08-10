@@ -11,7 +11,7 @@ I've took part in translation of these projects: (listed below UA version)\
 - [TicketBot](https://ticketsbot.net/)
 - [Frontier Station 14](https://github.com/Iced-Coded/frontier-station-14)
 - [Big Ambitions](https://store.steampowered.com/app/1331550/Big_Ambitions/)
-- []
+- [Vintage Story Wiki](https://wiki.vintagestory.at/index.php/Special:Contributions/Alexiex)
 - та інші
 
 ## 📞 How to contact me? / 📞 Як зв'язатися зі мною?
