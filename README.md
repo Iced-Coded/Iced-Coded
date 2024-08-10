@@ -1,20 +1,13 @@
-<!--
-**Iced-Coded/Iced-Coded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![literally me](ss13_beach.gif)
 
-Here are some ideas to get you started:
+## 💽 What do I do? / 💽 Чим я займаюся?
+Вітаю! Я - Шурік, лінгвіст-аматор та програміст-аматор.
+Перекладаю(ав) такі проекти як:
+- [Hypixel](https://hypixel.net/)
+- [TicketBot](https://ticketsbot.net/)
+- [Frontier Station 14](https://github.com/Iced-Coded/frontier-station-14)
+- [Big Ambitions](https://store.steampowered.com/app/1331550/Big_Ambitions/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Greetings to my personal page 👋
-
-- 🔭 I’m currently working on _Nothing_
-- 🌱 I’m currently learning _Python_
-- 📫 To reach me you can send me an email to _volkogon212@gmail.com_
+## 📞 How to contact me? / 📞 Як зв'язатися зі мною?
+- Mastodon: [@alee_eex@mastodon.social](https://mastodon.social/@alee_eex)
+- Discord: [a1ex_vol](discordapp.com/users/1166724763746578514)
