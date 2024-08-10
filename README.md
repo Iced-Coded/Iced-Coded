@@ -1,11 +1,11 @@
 ![literally me](ss13_beach.gif)
 
 ## 💽 What do I do? / 💽 Чим я займаюся?
-🇺🇸 ENG:
-Greetings! I'm - Alex, amateur in linguistics and programming.
-I've took part in translation of these projects: (listed below UA version)
-🇺🇦 UA:
-Вітаю! Я - Шурік, лінгвіст-аматор та програміст-аматор.
+🇺🇸 ENG:\
+Greetings! I'm - Alex, amateur in linguistics and programming.\
+I've took part in translation of these projects: (listed below UA version)\
+🇺🇦 UA:\
+Вітаю! Я - Шурік, лінгвіст-аматор та програміст-аматор.\
 Перекладаю(ав) такі проекти як:
 - [Hypixel](https://hypixel.net/)
 - [TicketBot](https://ticketsbot.net/)
