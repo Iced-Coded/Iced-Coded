@@ -16,4 +16,4 @@ I've took part in translation of these projects: (listed below UA version)\
 
 ## 📞 How to contact me? / 📞 Як зв'язатися зі мною?
 - Mastodon: [@alee_eex@mastodon.social](https://mastodon.social/@alee_eex)
-- Discord: [a1ex_vol](discordapp.com/users/1166724763746578514)
+- Discord: [a1ex_vol](https://discordapp.com/users/1166724763746578514)
