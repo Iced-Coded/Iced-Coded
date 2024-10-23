@@ -14,6 +14,8 @@ I've took part in translation of these projects: (listed below UA version)\
 - [Vintage Story Wiki](https://wiki.vintagestory.at/index.php/Special:Contributions/Alexiex)
 - та інші
 
+Зараз я активно працюю над таким проєктом, як ["Оповіщення про стан електромережі"](https://github.com/Sanchez-Team/esp32-electricity-notifier) ([Приватний репозиторій](https://github.com/Iced-Coded/electro-arduino)).
+
 ## 📞 How to contact me? / 📞 Як зв'язатися зі мною?
 - Mastodon: [@alee_eex@mastodon.social](https://mastodon.social/@alee_eex)
 - Discord: [a1ex_vol](https://discordapp.com/users/1166724763746578514)
