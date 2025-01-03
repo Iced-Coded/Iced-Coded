@@ -16,6 +16,12 @@ I've took part in translation of these projects: (listed below UA version)\
 
 Зараз я активно працюю над таким проєктом, як ["Оповіщення про стан електромережі"](https://github.com/Sanchez-Team/esp32-electricity-notifier) ([Приватний репозиторій](https://github.com/Iced-Coded/electro-arduino)).
 
+## 📊 Stats / 📊 Статистика
+
+![Iced-Coded's Stats](https://github-readme-stats.vercel.app/api?username=Iced-Coded&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+![Iced-Coded's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iced-Coded&theme=prussian&hide_border=false)
+![Iced-Coded's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iced-Coded&theme=prussian&show_icons=true&hide_border=false&layout=compact)
+
 ## 📞 How to contact me? / 📞 Як зв'язатися зі мною?
 - Mastodon: [@alee_eex@mastodon.social](https://mastodon.social/@alee_eex)
 - Discord: [a1ex_vol](https://discordapp.com/users/1166724763746578514)
