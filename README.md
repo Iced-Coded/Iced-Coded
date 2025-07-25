@@ -14,7 +14,7 @@ GPU: Intel Mobile GM965 \
 RAM: 2 GB DDR2 \
 OS: Ubuntu Server 24.04
 ## 🔧 Tools I use
-[![My Tools](https://skillicons.dev/icons?i=pycharm,vscode,linux,debian&theme=light)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=pycharm,vscode,linux,debian,photoshop,arch&theme=light)](https://skillicons.dev)
 ## 🪛 Coding languages I use
 [![My Skills](https://skillicons.dev/icons?i=js,css,html,php,python&theme=light)](https://skillicons.dev)
 ## 👾 Contact me
