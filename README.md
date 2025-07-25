@@ -14,7 +14,7 @@ I've took part in translation of these projects: (listed below UA version)\
 - [Vintage Story Wiki](https://wiki.vintagestory.at/index.php/Special:Contributions/Alexiex)
 - та інші
 
-Зараз я активно працюю над таким проєктом, як ["Оповіщення про стан електромережі"](https://github.com/Sanchez-Team/esp32-electricity-notifier) ([Приватний репозиторій](https://github.com/Iced-Coded/electro-arduino)).
+Зараз я не працюю над жодними проектами.
 
 ## 📊 Stats / 📊 Статистика
 
@@ -22,5 +22,5 @@ I've took part in translation of these projects: (listed below UA version)\
 ![Iced-Coded's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iced-Coded&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 ## 📞 How to contact me? / 📞 Як зв'язатися зі мною?
-- Mastodon: [@alee_eex@mastodon.social](https://mastodon.social/@alee_eex)
-- Discord: [a1ex_vol](https://discordapp.com/users/1166724763746578514)
+- EMail: [alexvolkov@envs.net](mailto:alexvolkov@envs.net)
+- Bluesky: [avol.pp.ua](https://bsky.app/profile/avol.pp.ua)
