@@ -4,7 +4,8 @@ I'm Alex, I live in Ukraine and do some weird projects.
 - Future Computer Engineer
 - MMORPG Enjoyer
 - Metalhead, who enjoys not only metal, but every genre.
-## 🖥 Workstation specs
+- Soon-to-be Computer Engineering student
+## 🖥 PC specs
 CPU: Intel Core i5-11600K \
 GPU: AMD Radeon RX 6600 \
 RAM: 16 GB DDR4 \
