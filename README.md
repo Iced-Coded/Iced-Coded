@@ -18,7 +18,7 @@ OS: Ubuntu Server 24.04
 ## 🔧 Tools I use
 [![My Tools](https://skillicons.dev/icons?i=pycharm,vscode,linux,debian,photoshop,arch&theme=light)](https://skillicons.dev)
 ## 🪛 Coding languages I use
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,php,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,php,python,nodejs&theme=light)](https://skillicons.dev)
 ## 🎶 My Favourite Musicians
 I love listening to following artists!
 - STRUCTURA SHYASTYA (aka Uhlach Yelyzaveta)
