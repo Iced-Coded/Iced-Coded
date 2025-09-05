@@ -19,6 +19,8 @@ OS: Ubuntu Server 24.04
 [![My Tools](https://skillicons.dev/icons?i=pycharm,vscode,linux,debian,photoshop,arch&theme=light)](https://skillicons.dev)
 ## 🪛 Coding languages I use
 [![My Skills](https://skillicons.dev/icons?i=js,css,html,php,python,nodejs&theme=light)](https://skillicons.dev)
+## 📊 Some Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iced-Coded&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ## 🎶 My Favourite Musicians
 I love listening to following artists!
 - STRUCTURA SHYASTYA (aka Uhlach Yelyzaveta)
