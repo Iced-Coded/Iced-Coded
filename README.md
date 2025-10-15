@@ -1,3 +1,4 @@
+# NO LONGER ACTIVE ON GITHUB. ACTIVE ON [CODEBERG](https://codeberg.org/Iced-Coded?tab=repositories)
 # 👋 Hi there!
 I'm Alex, I live in Ukraine and do some weird projects.
 ## 🤙 About me
