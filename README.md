@@ -1,3 +1,6 @@
+>[!WARNING]
+>I'm currently far more active on [Codeberg](https://codeberg.org/Iced-Coded), while I keep my GitHub for visibility reasons.
+
 # 👋 Hi there!
 I'm Alex, I live in Ukraine and do some weird projects.
 ## 🤙 About me
@@ -5,16 +8,6 @@ I'm Alex, I live in Ukraine and do some weird projects.
 - MMORPG Enjoyer
 - Metalhead, who enjoys not only metal, but every genre.
 - Soon-to-be Computer Engineering student
-## 🖥 PC specs
-CPU: Intel Core i5-11600K \
-GPU: AMD Radeon RX 6600 \
-RAM: 16 GB DDR4 \
-OS: EndevaourOS w/ KDE Plasma
-## 🔌 Homelab specs
-CPU: Intel Core 2 Duo T9300 \
-GPU: Intel Mobile GM965 \
-RAM: 2 GB DDR2 \
-OS: Ubuntu Server 24.04
 ## 🔧 Tools I use
 [![My Tools](https://skillicons.dev/icons?i=pycharm,vscode,linux,debian,photoshop,arch&theme=light)](https://skillicons.dev)
 ## 🪛 Coding languages I use
