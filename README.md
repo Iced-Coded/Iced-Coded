@@ -34,7 +34,7 @@
 
 ### 🎶 Now Playing
 
-[![Now Playing](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=alexovolkov&theme=dark&count=1&header=0&stats=off)](https://www.lastfm.net/user/alexovolkov)
+[![Now Playing](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=alexovolkov&theme=dark&count=1&header=0&stats=off)](https://www.last.fm/user/alexovolkov)
 
 ---
 
