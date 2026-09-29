@@ -1,13 +1,13 @@
 
 <div align="center">
   <h1>👋 Hi there, I'm Alex!</h1>
-  <p><b>Ukrainian Expat & Computer Engineering Student in Ostrava, Czechia 🇨🇿</b></p>
+  <p><b>Ukrainian Expat & CIT Student in Ostrava, Czechia 🇨🇿</b></p>
 </div>
 
 ---
 
 ### 🤙 About Me
-- 🎓 **Education:** Computer Engineering student based in Ostrava, Czechia
+- 🎓 **Education:** CIT student based in Ostrava, Czechia
 - 🎮 **Gaming:** Massive MMORPG enjoyer
 - 🎧 **Music:** Heavy metalhead at heart, but open to almost every genre
 
